@@ -1,3 +1,3 @@
-# 4-cards
-Frontend Mentor
+# Frontend Mentor
+
 Four card feature section
